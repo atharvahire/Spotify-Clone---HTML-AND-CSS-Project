@@ -1,4 +1,6 @@
-🎧 Spotify Clone Frontend
+🎧 **Spotify Clone Frontend**
+
+
 ![Spotify - Web Player_ Music for everyone - Personal - Microsoft​ Edge 02-10-2024 22_40_59](https://github.com/user-attachments/assets/a9cca1e8-e42d-46ee-b47e-73b7c5464190)
 This project is a **Spotify clone** that I built using only **HTML** and **CSS**. It replicates the front-end interface of the popular music streaming platform, focusing on responsive design, layout, and styling.
 
